@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Cute App</string>
+    <string name="btn">Button</string>
+    <string name="message"> This is a Button.</string>
+    <string name="enter_e_mail_id">Enter e-mail id</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_your_credentials">Enter your credentials</string>
+</resources>
